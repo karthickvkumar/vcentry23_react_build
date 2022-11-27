@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9c1b4654.css",
+    "main.js": "/static/js/main.fd558dc4.js",
+    "static/js/787.bc82c51c.chunk.js": "/static/js/787.bc82c51c.chunk.js",
+    "static/media/fontawesome-webfont.svg?v=4.2.0": "/static/media/fontawesome-webfont.083a1c3461b427ea103b.svg",
+    "static/media/h4-slide2.png": "/static/media/h4-slide2.9541de47b3d34e2b2348.png",
+    "static/media/h4-slide3.png": "/static/media/h4-slide3.b4334ecca63a930dad6b.png",
+    "static/media/h4-slide4.png": "/static/media/h4-slide4.df0cda42a392de00edcf.png",
+    "static/media/fontawesome-webfont.ttf?v=4.2.0": "/static/media/fontawesome-webfont.670e1210f375c1590bd4.ttf",
+    "static/media/h4-slide.png": "/static/media/h4-slide.c1f7c64f6ddbb9987b8f.png",
+    "static/media/fontawesome-webfont.woff?v=4.2.0": "/static/media/fontawesome-webfont.6e8ec896aab286231d3c.woff",
+    "static/media/glyphicons-halflings-regular.svg": "/static/media/glyphicons-halflings-regular.a2d98995549db87fb48d.svg",
+    "static/media/fontawesome-webfont.eot": "/static/media/fontawesome-webfont.1c77d5ab10c945269a09.eot",
+    "static/media/crossword.png": "/static/media/crossword.0c86b0ee6bb86a2afc52.png",
+    "static/media/glyphicons-halflings-regular.ttf": "/static/media/glyphicons-halflings-regular.b7c243015cec15850248.ttf",
+    "static/media/glyphicons-halflings-regular.woff": "/static/media/glyphicons-halflings-regular.e3cab037268b4e02bef8.woff",
+    "static/media/glyphicons-halflings-regular.eot": "/static/media/glyphicons-halflings-regular.2810d2a49be3af435f61.eot",
+    "index.html": "/index.html",
+    "main.9c1b4654.css.map": "/static/css/main.9c1b4654.css.map",
+    "main.fd558dc4.js.map": "/static/js/main.fd558dc4.js.map",
+    "787.bc82c51c.chunk.js.map": "/static/js/787.bc82c51c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9c1b4654.css",
+    "static/js/main.fd558dc4.js"
+  ]
+}
